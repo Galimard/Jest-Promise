@@ -1,0 +1,22 @@
+{
+  "name": "jest-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galimard/Jest-Promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galimard/Jest-Promise/issues"
+  },
+  "homepage": "https://github.com/Galimard/Jest-Promise#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
